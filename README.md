@@ -1,4 +1,4 @@
-###Bem vindo ao Meu Perfil e sinta-se em casa"👨🏽‍💻
+Hi, Welcome on my github... 👨🏽‍💻
 
  <div>
    <a href="https://github.com/JeanCigerza">
@@ -14,7 +14,7 @@
  
  <br>
  
-  Cuidado ao clicar, Jovem dedicado...
+  >My Social media.
  
 <div> 
   <a href="https://www.instagram.com/jean_cigerza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
